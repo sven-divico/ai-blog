@@ -14,11 +14,11 @@ Cindy's first challenge was to determine what she wanted AI to achieve. For her,
 
 Cindy knew that the best insights come from understanding the past. Her store had years of sales data, customer preferences, and feedback. This treasure trove of information was exactly what her AI needed to learn and predict future trends. However, like many businesses, Cindy's data was scattered across various systems. She worked diligently to integrate this data, ensuring it was in a format that AI could use effectively.
 
-**Turning Predictions into Actions**
+**From Predictions to Actions**
 
 Once her AI began making predictions about customer behavior, Cindy faced the crucial step of turning these insights into tangible actions. If AI predicted a beloved customer might stop visiting, Cindy used this as an opportunity to reach out personally, perhaps with a special offer or a sneak peek at a new candy flavor. This proactive approach turned AI predictions into meaningful customer engagement strategies.
 
-**Enhancing Actions with AI**
+**Enhanced Actions with AI**
 
 Cindy's journey with AI didn't stop at predictions. She used generative AI, specifically Salesforce's Einstein, to help create special promotions and personalized messages for her customers. For instance, when she wanted to send a heartfelt email to customers who hadn't visited in a while, Einstein helped draft a message that she then fine-tuned to add her personal touch. This not only helped in addressing customer attrition but also showed her customers how much she valued them.
 
