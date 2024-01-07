@@ -1,5 +1,5 @@
 
-[read more how everything started...](/2024/01/04/Ingredients-of-Artificial-Intelligence.html)
+[read more how everything started...](/ai-blog/2024/01/04/Ingredients-of-Artificial-Intelligence.html)
 
 
 # Crafting the Future with AI in Cindy's Candy Store
@@ -8,7 +8,7 @@ As Cindy's Candy Store grew, she realized the need to harness the power of AI no
 
 **Deciding What to Predict**
 
-Cindy's first challenge was to determine what she wanted AI to achieve. For her, it was about understanding and reducing customer attrition. She asked herself, "What does losing a customer mean for my store? Is it when a regular stops visiting, or when a frequent online shopper reduces their orders?" Just like American Savers Cooperative (ASC) had to define what attrition meant for them, Cindy needed to pinpoint what customer loss looked like for her candy business.
+Cindy's first challenge was to determine what she wanted AI to achieve. For her, it was about understanding and reducing customer attrition. She asked herself, "What does losing a customer mean for my store? Is it when a regular stops visiting, or when a frequent online shopper reduces their orders?". Cindy needed to pinpoint what customer loss looked like for her candy business.
 
 **Getting Historical Data in Order**
 
